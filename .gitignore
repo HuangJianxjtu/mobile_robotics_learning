@@ -1,0 +1,15 @@
+# ignore directories
+复习实验资料
+延伸阅读
+教学视频
+讲义
+
+# ignore vscode configuration files
+.vscode
+*.json
+
+# ignore mp4 files, which are very large
+*.mp4
+
+# ignore python cache files
+__pycache__
